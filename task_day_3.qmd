@@ -1,0 +1,31 @@
+---
+title: "Tesk day 3"
+format: html
+editor: visual
+---
+
+## Create two vectors -----
+
+```{r}
+vec_a <- c(1, 6)
+vec_b <- c(2, 4)
+
+```
+
+## Addition ----
+
+```{r}
+vec_a + vec_b
+```
+
+```{r}
+vec_a - vec_b
+```
+
+```{r}
+ 2 * vec_a
+```
+
+```{r}
+vec_a * vec_b
+```
